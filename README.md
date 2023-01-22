@@ -28,5 +28,5 @@ root
         Parser 
             *The Parser class is responsible for parsing the input code.
         SymbolTable 
-            *reposible for variables values and method. 
+            *reposible for variable values and methods. 
 ```
