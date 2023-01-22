@@ -6,9 +6,10 @@ Java Tree Generator is a program that generates a text tree of all modules and c
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-Java 8 or later
-Maven
-IntelliJ IDEA (optional)
+Java 8 or later     
+Maven   
+IntelliJ IDEA (optional)    
+
 ### Installing
 Clone or download the repository.
 Open the project in IntelliJ IDEA (if using) and make sure that the JavaParser library is added to the classpath (if not you can add it through the pom.xml file)
