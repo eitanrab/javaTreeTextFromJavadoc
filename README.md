@@ -23,9 +23,9 @@ root
     oop.ex6.main.parsing
         DeclarationException 
             *The DeclarationException class represents an exception that is thrown when
-            *there is an issue with variable or method declarations.)
+            *there is an issue with variable or method declarations.
         Parser 
-            *The Parser class is responsible for parsing the input code
+            *The Parser class is responsible for parsing the input code.
         SymbolTable 
-            *this class is in charge of all the variables
+            *reposible for variables values and method. 
 ```
